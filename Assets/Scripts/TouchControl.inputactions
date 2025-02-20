@@ -1,0 +1,34 @@
+{
+    "name": "TouchControl",
+    "maps": [
+        {
+            "name": "Move",
+            "id": "bd74e1a1-5b6a-4f85-82f4-91e46f80508b",
+            "actions": [
+                {
+                    "name": "Swing",
+                    "type": "PassThrough",
+                    "id": "c5448116-c30f-48a5-b1a5-a80d8b2b05b8",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d61182c6-1ab3-46d1-bc5f-f484021e1260",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Swing",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
