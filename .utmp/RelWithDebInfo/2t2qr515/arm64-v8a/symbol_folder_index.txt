@@ -1,0 +1,1 @@
+C:\Users\Cliente\Documents\UnityProjects\EndlessRunner\EndlessRunner\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2t2qr515\obj\arm64-v8a

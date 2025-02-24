@@ -1,0 +1,2 @@
+C:\Users\Cliente\Documents\UnityProjects\EndlessRunner\EndlessRunner\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Cliente\Documents\UnityProjects\EndlessRunner\EndlessRunner\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
